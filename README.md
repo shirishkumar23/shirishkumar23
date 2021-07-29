@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shirishkumar23
-- 👀 I’m interested in Web DEvelopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web development front end and back ebd both
 - 📫 How to reach me shirishkumar23@gmail.com
